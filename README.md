@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - [@yourusername](https://github.com/yourusername)
+- Your Name - [@1shabbirhussain](https://github.com/1shabbirhussain)
 
 ## 🙏 Acknowledgments
 
@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Support
 
-For support, email your.email@example.com or open an issue in the repository.
+For support, email 001.shabbirhussain@gmail.com or open an issue in the repository.
 
 ## 🔮 Roadmap
 
